@@ -1,0 +1,1 @@
+directional Light는 각도만 영향을 미침
